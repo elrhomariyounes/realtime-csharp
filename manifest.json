@@ -21,7 +21,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Supabase.Realtime.Channel.html",
-          "hash": "9ZKbFip5LXneAbc8FX3p9g=="
+          "hash": "2vwf8LADwzlFQ5QlKnMc3A=="
         }
       },
       "is_incremental": false,
@@ -69,31 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Supabase.Realtime.Client.html",
-          "hash": "6SPBe0WaedOoqgeCClvImA=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Supabase.Realtime.ClientAuthorization.AuthorizationType.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Supabase.Realtime.ClientAuthorization.AuthorizationType.html",
-          "hash": "1y01c4CRvRrKIlhL9Xo3sw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Supabase.Realtime.ClientAuthorization.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/Supabase.Realtime.ClientAuthorization.html",
-          "hash": "Fjb/+vpza8QCbieK5tLwoQ=="
+          "hash": "x9lpvgqrwm/Hjy/7W+vm8A=="
         }
       },
       "is_incremental": false,
@@ -165,7 +141,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Supabase.Realtime.Push.html",
-          "hash": "kBgX6MEdAIN/Ubvc83rzDw=="
+          "hash": "TtxGA2Ol9SpTOKeDCam2JQ=="
         }
       },
       "is_incremental": false,
@@ -177,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Supabase.Realtime.Socket.html",
-          "hash": "kaaSjtpgJfs4gezt4XDMoQ=="
+          "hash": "aN5JLfPZV5C5wXtxacMbGg=="
         }
       },
       "is_incremental": false,
@@ -273,7 +249,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Supabase.Realtime.html",
-          "hash": "n+uXRHdL35sWlIhMXGIZCA=="
+          "hash": "lckJBZtX31n6C+hkBLrpPg=="
         }
       },
       "is_incremental": false,
@@ -297,7 +273,7 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "8Dr85WZhFx885vKgk8wRcA=="
+          "hash": "UyqlUQziWjUeUD8txkcREA=="
         }
       },
       "is_incremental": false,
@@ -348,7 +324,7 @@
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 23,
+          "total_file_count": 21,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
